@@ -1,5 +1,5 @@
-<code>􏿾X</code> black tofu pirates[^1]
+􏿾[^1][^2]
 
 
-
-[^1]: rendering tofu since 􏿾2022
+[^1]: captain of the black tofu pirates
+[^2]: capturing 🚩 and rendering tofu since 􏿾2022
