@@ -1,4 +1,4 @@
 <code>~,;<</code> [^1]
 
 
-[^1]: currently capturing flags for the [black tofu pirates](https://ctftime.org/team/197299)
+[^1]: capturing flags for ~[Hackermans FriendZ](https://ctftime.org/team/162962)~ [black tofu pirates](https://ctftime.org/team/197299)
