@@ -1,3 +1,1 @@
-<code>
-ꓷ↞◃
-</code>
+<code>ꓷ↞◃</code>
