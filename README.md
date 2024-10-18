@@ -1,1 +1,1 @@
-<code>0xDEADB12D</code>
+<code>Hello, World!</code>
