@@ -1,1 +1,5 @@
-<code>Hello, Wó.%d🖤</code>
+```sh
+$ echo geist
+
+$
+```
