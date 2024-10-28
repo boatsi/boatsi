@@ -1,3 +1,1 @@
-```sh
-\0geist
-```
+<code>\0geist</code>
