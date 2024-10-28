@@ -1,5 +1,3 @@
 ```sh
-$ echo geist
-
-$
+\0geist
 ```
