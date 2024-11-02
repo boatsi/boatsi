@@ -1,1 +1,1 @@
-<code>\0geist</code>
+<code>not a tty</code>
