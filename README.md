@@ -1,1 +1,1 @@
-<code>not a tty</code>
+<code>0x6E157</code>
