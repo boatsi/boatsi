@@ -1,1 +1,1 @@
-<code>τ ψ xyz</code>
+<code>τ bx</code>
