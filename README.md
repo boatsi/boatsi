@@ -1,1 +1,1 @@
-<code>τ bx</code>
+<code>primitive life form</code>
