@@ -1,1 +1,1 @@
-<code>primitive life form</code>
+<code>xor eax, eax      ; calculate IQ</code>
