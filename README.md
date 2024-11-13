@@ -1,1 +1,1 @@
-<code>xor eax, eax      ; calculate IQ</code>
+<code>xor eax, eax      ;calculate motivation</code>
