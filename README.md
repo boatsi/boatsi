@@ -1,1 +1,1 @@
-<code>xor eax, eax      ;calculate motivation</code>
+<code> sed 's/that/dead/' <<< 'well, yeah, i am actually that old.'</code>
