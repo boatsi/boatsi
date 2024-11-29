@@ -1,1 +1,1 @@
-<code> sed 's/that/dead/' <<< 'maintaining that code.'</code>
+<code>t<b>[a|b]</b>sty</code>
