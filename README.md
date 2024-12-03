@@ -1,1 +1,1 @@
-<code>daddy long    tabs</code>
+<code>daddy long        tabs</code>
