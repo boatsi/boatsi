@@ -1,1 +1,1 @@
-<code>t<b>[a|b]</b>sty</code>
+<code>t<b>a{3}</b>bs</code>
