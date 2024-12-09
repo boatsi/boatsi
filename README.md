@@ -1,1 +1,1 @@
-<code>lags daddy long</code>
+> `Executioner? No, my friend. I'm an architect.`
