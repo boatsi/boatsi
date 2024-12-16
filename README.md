@@ -1,1 +1,1 @@
-> `Executioner? No, my friend. I'm an architect.`
+> `Loss is nothing else but change, and change is Nature's delight. - Marcus Aurelius`
